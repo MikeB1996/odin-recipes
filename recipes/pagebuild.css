@@ -1,0 +1,22 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aquamarine;
+}
+
+.titl {
+    font-weight: bolder;
+    font-size: 36px;
+    color: red;
+}
+
+
+.linkcol {
+    font-size: 18px;
+    color: blue;
+
+}
+
+.img {
+    width: 40%;
+    height: auto;
+}
